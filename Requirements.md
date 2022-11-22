@@ -13,6 +13,9 @@
    - confirm refunds, orders
    - cancel refunds, orders
    - check log list
+
+3. Company: 
+   - order, cancel, confirm refunds
 ---
 Database diagram:
 
