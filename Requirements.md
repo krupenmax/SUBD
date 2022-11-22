@@ -81,5 +81,5 @@ Database description:
 ---
 Normalized Database diagram:
 
-![alt text](Normalized.png)
+![alt text](Normalized.jpg)
 ---
